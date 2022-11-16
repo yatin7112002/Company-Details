@@ -8,13 +8,13 @@ Connecting nodejs to mysql and performing queries using html forms
 Clone the project
 
 ```bash
-  git clone https://github.com/Siddharth189/nodejsmysql
+  git clone https://github.com/yatin7112002/Company-Details/
 ```
 
 Go to the project directory
 
 ```bash
-  cd nodejsmysql
+  cd Company-Details
 ```
 
 Install dependencies
